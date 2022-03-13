@@ -1,16 +1,16 @@
 {
-  "name": "mediasoup",
+  "name": "@durrtagnan/mediasoup",
   "version": "3.8.4",
-  "description": "Cutting Edge WebRTC Video Conferencing",
+  "description": "Fork of Cutting Edge WebRTC Video Conferencing",
   "contributors": [
     "Iñaki Baz Castillo <ibc@aliax.net> (https://inakibaz.me)",
     "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)"
   ],
-  "homepage": "https://mediasoup.org",
+  "homepage": "https://github.com/durrtagnan/mediasoup",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/versatica/mediasoup.git"
+    "url": "https://github.com/durrtagnan/mediasoup.git"
   },
   "funding": {
     "type": "opencollective",
